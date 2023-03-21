@@ -1,2402 +1,731 @@
 {
-  "15.01.2023.": [
+  "09.04.2023.": [
     {
-      "sifra": "13E013ASM",
+      "sifra": "13E012EINN",
       "vreme": null,
-      "naziv": "Asinhrone mašine"
+      "naziv": "Elektroenergetske instalacije niskog napona"
     },
     {
-      "sifra": "13E043AE",
-      "vreme": null,
-      "naziv": "Analogna elektronika"
-    },
-    {
-      "sifra": "13E044AMK",
-      "vreme": null,
-      "naziv": "Analiza i modelovanje elektronskih kola upotrebom VHDL-AMS jezika"
-    },
-    {
-      "sifra": "13E054CNC",
-      "vreme": null,
-      "naziv": null
-    },
-    {
-      "sifra": "13E083MOAR",
-      "vreme": null,
-      "naziv": "Matematičke osnove automatskog rezonovanja"
-    },
-    {
-      "sifra": "13E113AOR1",
-      "vreme": null,
-      "naziv": "Arhitektura i organizacija računara 1"
-    },
-    {
-      "sifra": "13M021MID",
-      "vreme": null,
-      "naziv": "Monitoring i dijagnostika visokonaponskih postrojenja"
-    },
-    {
-      "sifra": "13M031FVS",
-      "vreme": null,
-      "naziv": "Forenzika video signala"
-    },
-    {
-      "sifra": "13S081M1",
-      "vreme": null,
-      "naziv": "Matematika 1"
-    },
-    {
-      "sifra": "13S081M1",
-      "vreme": null,
-      "naziv": "Matematika 1"
-    },
-    {
-      "sifra": "13S081M1",
-      "vreme": null,
-      "naziv": "Matematika 1"
-    },
-    {
-      "sifra": "13S081M1",
-      "vreme": null,
-      "naziv": "Matematika 1"
-    },
-    {
-      "sifra": "13S113AOR1",
-      "vreme": null,
-      "naziv": "Arhitektura i organizacija računara 1"
-    },
-    {
-      "sifra": "19E013OMN",
-      "vreme": null,
-      "naziv": "Obrtne mašine za naizmeničnu struju"
-    },
-    {
-      "sifra": "19E032PSA1",
-      "vreme": null,
-      "naziv": "Praktikum softverski alati 1"
-    },
-    {
-      "sifra": "19E033POP",
-      "vreme": null,
-      "naziv": "Primena objektnog programiranja u mrežama"
-    },
-    {
-      "sifra": "19E043AE2",
-      "vreme": null,
-      "naziv": "Analogna elektronika 2"
-    },
-    {
-      "sifra": "19E044AMK",
-      "vreme": null,
-      "naziv": "Analiza i modelovanje elektronskih kola upotrebom HDL-AMS jezika"
-    },
-    {
-      "sifra": "19E054CNC",
-      "vreme": null,
-      "naziv": null
-    },
-    {
-      "sifra": "19E081MM1",
-      "vreme": null,
-      "naziv": "Matematika 1"
-    },
-    {
-      "sifra": "19E081MM1",
-      "vreme": null,
-      "naziv": "Matematika 1"
-    },
-    {
-      "sifra": "19E081MM1",
-      "vreme": null,
-      "naziv": "Matematika 1"
-    },
-    {
-      "sifra": "19M054CNC",
-      "vreme": null,
-      "naziv": null
-    }
-  ],
-  "20.01.2023.": [
-    {
-      "sifra": "13E013EVO",
-      "vreme": null,
-      "naziv": "Električna vozila"
-    },
-    {
-      "sifra": "13E032EM",
-      "vreme": null,
-      "naziv": "Električna merenja"
-    },
-    {
-      "sifra": "13E034RS",
-      "vreme": null,
-      "naziv": "Radio sistemi"
-    },
-    {
-      "sifra": "13E042EM",
-      "vreme": null,
-      "naziv": "Električna merenja"
-    },
-    {
-      "sifra": "13E044NRS",
-      "vreme": null,
-      "naziv": "Namenski računarski sistemi"
-    },
-    {
-      "sifra": "13E044NSS",
-      "vreme": null,
-      "naziv": "Namenski računarski sistemi"
-    },
-    {
-      "sifra": "13E052EM",
-      "vreme": null,
-      "naziv": "Električna merenja"
-    },
-    {
-      "sifra": "13E053SSO",
-      "vreme": null,
-      "naziv": "Sistemi i signali u organizmu"
-    },
-    {
-      "sifra": "13E063FEČT",
-      "vreme": null,
-      "naziv": "Fizička elektronika čvrstog tela"
-    },
-    {
-      "sifra": "13E064NMT",
-      "vreme": null,
-      "naziv": "Nuklearna medicinska tehnika"
-    },
-    {
-      "sifra": "13E113OS2",
-      "vreme": null,
-      "naziv": "Operativni sistemi 2"
-    },
-    {
-      "sifra": "13M031STT",
-      "vreme": null,
-      "naziv": "Statistička teorija telekomunikacija"
-    },
-    {
-      "sifra": "13M041IRS2",
-      "vreme": null,
-      "naziv": "Integrisani računarski sistemi 2"
-    },
-    {
-      "sifra": "13M044NRS",
-      "vreme": null,
-      "naziv": "Namenski računarski sistemi 2"
-    },
-    {
-      "sifra": "13M044NSS",
-      "vreme": null,
-      "naziv": "Projektovanje namenskih računarskih sistema"
-    },
-    {
-      "sifra": "13S111PKR",
-      "vreme": null,
-      "naziv": "Praktikum iz korišćenja računara"
-    },
-    {
-      "sifra": "13S113OS2",
-      "vreme": null,
-      "naziv": "Operativni sistemi 2"
-    },
-    {
-      "sifra": "19E013EVO",
-      "vreme": null,
-      "naziv": "Električna vozila"
-    },
-    {
-      "sifra": "19E033TIK",
-      "vreme": null,
-      "naziv": "Teorija informacija i kodovanje"
-    },
-    {
-      "sifra": "19E042EM",
-      "vreme": null,
-      "naziv": "Električna merenja"
-    },
-    {
-      "sifra": "19E052EM",
-      "vreme": null,
-      "naziv": "Električna merenja"
-    },
-    {
-      "sifra": "19E111URA",
-      "vreme": null,
-      "naziv": "Uvod u računarstvo"
-    }
-  ],
-  "24.01.2023.": [
-    {
-      "sifra": "13E013EI2",
-      "vreme": null,
-      "naziv": "Električne instalacije niskog napona 2"
-    },
-    {
-      "sifra": "13E013EP1",
-      "vreme": null,
-      "naziv": "Energetski pretvarači 1"
-    },
-    {
-      "sifra": "13E033TM",
-      "vreme": null,
-      "naziv": "Telekomunikaciona merenja"
-    },
-    {
-      "sifra": "13E042EE",
-      "vreme": null,
-      "naziv": "Elementi elektronike"
-    },
-    {
-      "sifra": "13E042EEG",
-      "vreme": null,
-      "naziv": "Elementi elektronike"
-    },
-    {
-      "sifra": "13E042OE",
-      "vreme": null,
-      "naziv": "Osnovi elektronike"
-    },
-    {
-      "sifra": "13E053HPS",
-      "vreme": null,
-      "naziv": "Hidraulički i pneumatički sistemi"
-    },
-    {
-      "sifra": "13E054NM",
-      "vreme": null,
-      "naziv": "Neuralne mreže"
-    },
-    {
-      "sifra": "13E061LF",
-      "vreme": null,
-      "naziv": "Laboratorijske vežbe iz Fizike"
-    },
-    {
-      "sifra": "13E064FS",
-      "vreme": null,
-      "naziv": "Fiberoptički senzori"
-    },
-    {
-      "sifra": "13E114VLSI",
-      "vreme": null,
-      "naziv": null
-    },
-    {
-      "sifra": "13M031MKS",
-      "vreme": null,
-      "naziv": null
-    },
-    {
-      "sifra": "13M054NM",
-      "vreme": null,
-      "naziv": "Neuralne mreže i sistemi za obradu signala"
-    },
-    {
-      "sifra": "13M111ASM",
-      "vreme": null,
-      "naziv": "Analiza socijalnih mreža"
-    },
-    {
-      "sifra": "13M114VLSI",
-      "vreme": null,
-      "naziv": null
-    },
-    {
-      "sifra": "13S053NM",
-      "vreme": null,
-      "naziv": "Neuralne mreže"
-    },
-    {
-      "sifra": "13S114VLSI",
-      "vreme": null,
-      "naziv": null
-    },
-    {
-      "sifra": "19E013EI2",
-      "vreme": null,
-      "naziv": "Električne instalacije niskog napona 2"
-    },
-    {
-      "sifra": "19E042EL",
-      "vreme": null,
-      "naziv": "Elektronika"
-    },
-    {
-      "sifra": "19E042OAE",
-      "vreme": null,
-      "naziv": "Osnovi analogne elektronike"
-    },
-    {
-      "sifra": "19E042OE",
-      "vreme": null,
-      "naziv": "Osnovi elektronike"
-    },
-    {
-      "sifra": "19M013EI2",
-      "vreme": null,
-      "naziv": "Električne instalacije niskog napona - odabrana poglavlja"
-    },
-    {
-      "sifra": "19M044RNS",
-      "vreme": null,
-      "naziv": "Projektovanje i razvoj namenskog softvera"
-    }
-  ],
-  "17.01.2023.": [
-    {
-      "sifra": "13E013ELO",
-      "vreme": null,
-      "naziv": "Električno osvetljenje"
-    },
-    {
-      "sifra": "13E022MEH",
-      "vreme": null,
-      "naziv": "Mehanika"
-    },
-    {
-      "sifra": "13E034URV",
-      "vreme": null,
-      "naziv": "Usmerene radio veze"
-    },
-    {
-      "sifra": "13E044DOS",
-      "vreme": null,
-      "naziv": "Digitalna obrada slike"
-    },
-    {
-      "sifra": "13E052SISR",
-      "vreme": null,
-      "naziv": "Signali i sistemi"
-    },
-    {
-      "sifra": "13E054DOS",
-      "vreme": null,
-      "naziv": "Digitalna obrada slike"
-    },
-    {
-      "sifra": "13E063OE",
-      "vreme": null,
-      "naziv": "Optoelektronika"
-    },
-    {
-      "sifra": "13M044DOS",
-      "vreme": null,
-      "naziv": "Napredna digitalna obrada slike"
-    },
-    {
-      "sifra": "13M054DOS",
-      "vreme": null,
-      "naziv": "Napredne tehnike digitalne obrade slike"
-    },
-    {
-      "sifra": "13S052SIS",
-      "vreme": null,
-      "naziv": "Signali i sistemi"
-    },
-    {
-      "sifra": "13S111P1",
-      "vreme": null,
-      "naziv": "Programiranje 1"
-    },
-    {
-      "sifra": "13S114MUPS",
-      "vreme": null,
-      "naziv": "Multiprocesorski sistemi"
-    },
-    {
-      "sifra": "19E013ELO",
-      "vreme": null,
-      "naziv": "Električno osvetljenje"
-    },
-    {
-      "sifra": "19E022MEH",
-      "vreme": null,
-      "naziv": "Mehanika"
-    },
-    {
-      "sifra": "19E042PIM",
-      "vreme": null,
-      "naziv": "Praktikum iz mikrokontrolera"
-    },
-    {
-      "sifra": "19E052SIS",
-      "vreme": null,
-      "naziv": "Signali i sistemi"
-    },
-    {
-      "sifra": "19E111P1",
-      "vreme": null,
-      "naziv": "Programiranje 1"
-    },
-    {
-      "sifra": "19E111P1",
-      "vreme": null,
-      "naziv": "Programiranje 1"
-    },
-    {
-      "sifra": "19E111P1",
-      "vreme": null,
-      "naziv": "Programiranje 1"
-    },
-    {
-      "sifra": "19M013ELO",
-      "vreme": null,
-      "naziv": "Električno osvetljenje - odabrana poglavlja"
-    }
-  ],
-  "null": [
-    {
-      "sifra": "13E013EMJS",
-      "vreme": null,
-      "naziv": "Električne mašine za jednosmernu struju"
-    },
-    {
-      "sifra": "13E014PEP",
-      "vreme": null,
-      "naziv": "Praktikum iz elektromotornih pogona"
-    },
-    {
-      "sifra": "13E014PREI",
-      "vreme": null,
-      "naziv": "Projekat iz električnih instalacija"
-    },
-    {
-      "sifra": "13E014PREN",
-      "vreme": null,
-      "naziv": "Projekat iz energetskih pretvarača"
-    },
-    {
-      "sifra": "13E014PRET",
-      "vreme": null,
-      "naziv": "Projekat iz energetskih transformatora"
-    },
-    {
-      "sifra": "13E014PRPE",
-      "vreme": null,
-      "naziv": "Projekat iz elektromotornih pogona"
-    },
-    {
-      "sifra": "13E014PRSM",
-      "vreme": null,
-      "naziv": "Projekat iz sinhronih mašina"
-    },
-    {
-      "sifra": "13E014PRUP",
-      "vreme": null,
-      "naziv": "Projekat iz digitalnog upravljanja pretvaračima i pogonima"
-    },
-    {
-      "sifra": "13E022PSA",
-      "vreme": null,
-      "naziv": "Praktikum iz softverskih alata u elektroenergetici"
-    },
-    {
-      "sifra": "13E023EM2",
-      "vreme": null,
-      "naziv": "Električna merenja 2"
-    },
-    {
-      "sifra": "13E024EES",
-      "vreme": null,
-      "naziv": "Eksploatacija elektroenergetskih sistema"
-    },
-    {
-      "sifra": "13E024PAE",
-      "vreme": null,
-      "naziv": "Praktikum iz analize elektroenergetskih sistema"
-    },
-    {
-      "sifra": "13E024PES",
-      "vreme": null,
-      "naziv": "Praktikum iz elemenata elektroenergetskih sistema"
-    },
-    {
-      "sifra": "13E024PRPP",
-      "vreme": null,
-      "naziv": "Projekat iz projektovanja pomoću računara u elektroenergetici"
-    },
-    {
-      "sifra": "13E024PRRZ",
-      "vreme": null,
-      "naziv": "Projekat iz relejne zaštite"
-    },
-    {
-      "sifra": "13E024PRRP",
-      "vreme": null,
-      "naziv": "Projekat iz razvodnih postrojenja"
-    },
-    {
-      "sifra": "13E024PRTV",
-      "vreme": null,
-      "naziv": "Projekat iz tehnike visokog napona"
-    },
-    {
-      "sifra": "13E034AOS",
-      "vreme": null,
-      "naziv": "Adaptivna obrada signala"
-    },
-    {
-      "sifra": "13E034SOS",
-      "vreme": null,
-      "naziv": "Sistemi za obradu slike"
-    },
-    {
-      "sifra": "13E043OAER",
-      "vreme": null,
-      "naziv": "Osnovi analogne elektronike"
-    },
-    {
-      "sifra": "13E044PR",
-      "vreme": null,
-      "naziv": "Projekat"
-    },
-    {
-      "sifra": "13E054AVO",
-      "vreme": null,
-      "naziv": "Automatsko vođenje objekata u prostoru"
-    },
-    {
-      "sifra": "13E054BMH",
-      "vreme": null,
-      "naziv": "Biomehanika"
-    },
-    {
-      "sifra": "13E054PO",
-      "vreme": null,
-      "naziv": "Prepoznavanje oblika"
-    },
-    {
-      "sifra": "13E062PSMT",
-      "vreme": null,
-      "naziv": "Praktikum iz savremenih materijala i tehnologija"
-    },
-    {
-      "sifra": "13E072GPRK",
-      "vreme": null,
-      "naziv": "Praktikum iz računarske analize kola"
-    },
-    {
-      "sifra": "13E072PRK2",
-      "vreme": null,
-      "naziv": "Praktikum iz računarske analize kola"
-    },
-    {
-      "sifra": "13E072PRK3",
-      "vreme": null,
-      "naziv": "Praktikum iz računarske analize kola"
-    },
-    {
-      "sifra": "13E074ME",
-      "vreme": null,
-      "naziv": "Mikrotalasna elektronika"
-    },
-    {
-      "sifra": "13E074SAP",
-      "vreme": null,
-      "naziv": "Softverski alati za projektovanje antena"
-    },
-    {
-      "sifra": "13E081PM1",
-      "vreme": null,
-      "naziv": "Praktikum iz matematike 1"
-    },
-    {
-      "sifra": "13E091NJ1",
-      "vreme": null,
-      "naziv": "Nemački jezik 1"
-    },
-    {
-      "sifra": "13E091FJ1",
-      "vreme": null,
-      "naziv": "Francuski jezik 1"
-    },
-    {
-      "sifra": "13E092NJ3",
-      "vreme": null,
-      "naziv": "Nemački jezik 3"
-    },
-    {
-      "sifra": "13E092NJ32",
-      "vreme": null,
-      "naziv": "Nemački jezik 3"
-    },
-    {
-      "sifra": "13E092FJ3",
-      "vreme": null,
-      "naziv": "Francuski jezik 3"
-    },
-    {
-      "sifra": "13E092FJ32",
-      "vreme": null,
-      "naziv": "Francuski jezik 3"
-    },
-    {
-      "sifra": "13E112OR",
-      "vreme": null,
-      "naziv": "Organizacija računara"
-    },
-    {
-      "sifra": "13M011EEP",
-      "vreme": null,
-      "naziv": "Energetski efikasni elektromotorni pogoni"
-    },
-    {
-      "sifra": "13M021ADM",
-      "vreme": null,
-      "naziv": "Automatizacija distributivnih mreža"
-    },
-    {
-      "sifra": "13M021IEM",
-      "vreme": null,
-      "naziv": "Inteligentne elektroenergetske mreže"
-    },
-    {
-      "sifra": "13M021RES",
-      "vreme": null,
-      "naziv": "Regulacija elektroenergetskih sistema"
-    },
-    {
-      "sifra": "13M031ANT",
-      "vreme": null,
-      "naziv": "Antenski nizovi u telekomunikacionim sistemima"
-    },
-    {
-      "sifra": "13M031ASM",
-      "vreme": null,
-      "naziv": "Analiza i sinteza muzičkih signala"
-    },
-    {
-      "sifra": "13M041AIK",
-      "vreme": null,
-      "naziv": "Analogna integrisana kola"
-    },
-    {
-      "sifra": "13M041DPS",
-      "vreme": null,
-      "naziv": "Digitalni procesori signala"
-    },
-    {
-      "sifra": "13M041IVS",
-      "vreme": null,
-      "naziv": "Integrisani višeprocesorski sistemi"
-    },
-    {
-      "sifra": "13M041IKS",
-      "vreme": null,
-      "naziv": "Integrisana kola za komunikacione sisteme"
-    },
-    {
-      "sifra": "13M051DIF",
-      "vreme": null,
-      "naziv": "Distribuirani i frakcioni sistemi upravljanja"
-    },
-    {
-      "sifra": "13M051NI",
-      "vreme": null,
-      "naziv": "Neuralno inženjerstvo"
-    },
-    {
-      "sifra": "13M051OUS",
-      "vreme": null,
-      "naziv": "Optimalno upravljanje sistemima"
-    },
-    {
-      "sifra": "13M051PSU",
-      "vreme": null,
-      "naziv": "Projektovanje sistema upravljanja"
-    },
-    {
-      "sifra": "13M051RMR",
-      "vreme": null,
-      "naziv": "Robusna multivarijabilna regulacija"
-    },
-    {
-      "sifra": "13M051RS",
-      "vreme": null,
-      "naziv": "Robotski sistemi"
-    },
-    {
-      "sifra": "13M051SRS",
-      "vreme": null,
-      "naziv": "Specijalni robotski sistemi"
-    },
-    {
-      "sifra": "13M051TSS",
-      "vreme": null,
-      "naziv": "Teorija stohastičkih sistema"
-    },
-    {
-      "sifra": "13M054PO",
-      "vreme": null,
-      "naziv": "Statističko prepoznavanje oblika"
-    },
-    {
-      "sifra": "13M061DNKS",
-      "vreme": null,
-      "naziv": "Dizajn nanoelektronskih kvantnih struktura"
-    },
-    {
-      "sifra": "13M061ENN",
-      "vreme": null,
-      "naziv": "Elementi nanooptike i nanofotonike"
-    },
-    {
-      "sifra": "13M061ESV",
-      "vreme": null,
-      "naziv": "Energija sunca i vetra"
-    },
-    {
-      "sifra": "13M061MMN",
-      "vreme": null,
-      "naziv": "Modelovanje mikroelektronskih naprava"
-    },
-    {
-      "sifra": "13M061MNR",
-      "vreme": null,
-      "naziv": "Metodologija naučnog rada"
-    },
-    {
-      "sifra": "13M061NEG",
-      "vreme": null,
-      "naziv": "Nuklearna energetika"
-    },
-    {
-      "sifra": "13M061OITI",
-      "vreme": null,
-      "naziv": "Osnovi inovacija, transfera tehnologije i zaštita intelektualne svojine u elektrotehnici i računarstvu"
-    },
-    {
-      "sifra": "13M061OMM",
-      "vreme": null,
-      "naziv": "Optičke mreže sa multipleksiranjem po talasnim dužinama (DWDM)"
-    },
-    {
-      "sifra": "13M061OROE",
-      "vreme": null,
-      "naziv": "Organska optoelektronika"
-    },
-    {
-      "sifra": "13M061SIFO",
-      "vreme": null,
-      "naziv": "Silicijumska fotonika"
-    },
-    {
-      "sifra": "13M061STPG",
-      "vreme": null,
-      "naziv": "Sudari i transportni procesi u jonizovanim gasovima"
-    },
-    {
-      "sifra": "13M061FP",
-      "vreme": null,
-      "naziv": "Fizika plazme"
-    },
-    {
-      "sifra": "13M064FS",
-      "vreme": null,
-      "naziv": "Optički senzori"
-    },
-    {
-      "sifra": "13M071IEK",
-      "vreme": null,
-      "naziv": "Ispitivanje elektromagnetske kompatibilnosti"
-    },
-    {
-      "sifra": "13M071MIS",
-      "vreme": null,
-      "naziv": "Modelovanje i simulacija elektromagnetskih polja"
-    },
-    {
-      "sifra": "13M071FMS",
-      "vreme": null,
-      "naziv": "Formiranje mikrotalasnih slika"
-    },
-    {
-      "sifra": "13M081DCJ",
-      "vreme": null,
-      "naziv": "Diferencne jednačine"
-    },
-    {
-      "sifra": "13M081LALG",
-      "vreme": null,
-      "naziv": "Linearna algebra"
-    },
-    {
-      "sifra": "13M081NMD",
-      "vreme": null,
-      "naziv": "Numerički metodi rešavanja diferencijalnih jednačina"
-    },
-    {
-      "sifra": "13M081OPNA",
-      "vreme": null,
-      "naziv": "Odabrana poglavlja iz numeričke analize"
-    },
-    {
-      "sifra": "13M081SPEF",
-      "vreme": null,
-      "naziv": "Specijalne funkcije"
-    },
-    {
-      "sifra": "13M091NJ",
-      "vreme": null,
-      "naziv": "Nemački jezik"
-    },
-    {
-      "sifra": "13M091FJ",
-      "vreme": null,
-      "naziv": "Francuski jezik"
-    },
-    {
-      "sifra": "13M111RG2",
-      "vreme": null,
-      "naziv": null
-    },
-    {
-      "sifra": "13M111SIBP",
-      "vreme": null,
-      "naziv": "Softversko inženjerstvo velikih baza podataka"
-    },
-    {
-      "sifra": "13M111SON",
-      "vreme": null,
-      "naziv": "Sistemi otporni na otkaze"
-    },
-    {
-      "sifra": "19D011VEP",
-      "vreme": null,
-      "naziv": null
-    },
-    {
-      "sifra": "19D011EEF",
-      "vreme": null,
-      "naziv": "Elektromotorni pogon kao racionalan i kvalitetan potrošač električne energije"
-    },
-    {
-      "sifra": "19D011EP",
-      "vreme": null,
-      "naziv": "Energetski pretvarači"
-    },
-    {
-      "sifra": "19D011ESM",
-      "vreme": null,
-      "naziv": "Električni servomotori"
-    },
-    {
-      "sifra": "19D011IEM",
-      "vreme": null,
-      "naziv": "Ispitivanje i održavanje električnih mašina"
-    },
-    {
-      "sifra": "19D011IEP",
-      "vreme": null,
-      "naziv": "Integracija elektromotornih pogona u složene sisteme pokretanja i upravljanja"
-    },
-    {
-      "sifra": "19D011ITP",
-      "vreme": null,
-      "naziv": "Ispitivanje transformatora i prigušnica u pogonu"
-    },
-    {
-      "sifra": "19D011MME",
-      "vreme": null,
-      "naziv": "Matematičko modeliranje u elektrotermiji"
-    },
-    {
-      "sifra": "19D011MUE",
-      "vreme": null,
-      "naziv": "Mikroprocesorsko upravljanje energetskim pretvaračima"
-    },
-    {
-      "sifra": "19D011MUP",
-      "vreme": null,
-      "naziv": "Mikroprocesorsko upravljanje elektromotornim pogonima"
-    },
-    {
-      "sifra": "19D011NSE",
-      "vreme": null,
-      "naziv": "Nadgledanje stanja električnih mašina u pogonu"
-    },
-    {
-      "sifra": "19D011OPE",
-      "vreme": null,
-      "naziv": "Odabrana poglavlja iz elektromotornih pogona"
-    },
-    {
-      "sifra": "19D011OPS",
-      "vreme": null,
-      "naziv": "Odabrana poglavlja iz specijalih električnih instalacija"
-    },
-    {
-      "sifra": "19D011OTM",
-      "vreme": null,
-      "naziv": null
-    },
-    {
-      "sifra": "19D011PEB",
-      "vreme": null,
-      "naziv": "Pozitivni efekti upotrebe bentonita u sistemima uzemljenja"
-    },
-    {
-      "sifra": "19D011PPM",
-      "vreme": null,
-      "naziv": "Prelazne pojave u električnim mašinama"
-    },
-    {
-      "sifra": "19D011SPE",
-      "vreme": null,
-      "naziv": "Specijalna poglavlja iz električnog osvetljenja"
-    },
-    {
-      "sifra": "19D011UEP",
-      "vreme": null,
-      "naziv": "Upravljanje energetskim pretvaračima"
-    },
-    {
-      "sifra": "19D021VIE",
-      "vreme": null,
-      "naziv": null
-    },
-    {
-      "sifra": "19D021VNM",
-      "vreme": null,
-      "naziv": "Visokonaponska merenja u elektroenergetici"
-    },
-    {
-      "sifra": "19D021VNO",
-      "vreme": null,
-      "naziv": "Visokonaponska rasklopna oprema"
-    },
-    {
-      "sifra": "19D021VP",
-      "vreme": null,
-      "naziv": "Visokonaponska postrojenja"
-    },
-    {
-      "sifra": "19D021VSE",
-      "vreme": null,
-      "naziv": "Vetroenergetika i solarna energetika"
-    },
-    {
-      "sifra": "19D021DS",
-      "vreme": null,
-      "naziv": "Distributivni sistemi - optimalno planiranje i eksploatacija"
-    },
-    {
-      "sifra": "19D021EPP",
-      "vreme": null,
-      "naziv": "Elektromagnetni prelazni procesi u elektroenergetskim sistemima"
-    },
-    {
-      "sifra": "19D021IOI",
-      "vreme": null,
-      "naziv": "Integracija obnovljivih izvora u distributivni sistem"
-    },
-    {
-      "sifra": "19D021MO",
-      "vreme": null,
-      "naziv": "Metode optimizacije u elektroenergetskim sistemima"
-    },
-    {
-      "sifra": "19D021MST",
-      "vreme": null,
-      "naziv": "Merne sprege i merni transformatori"
-    },
-    {
-      "sifra": "19D021OP",
-      "vreme": null,
-      "naziv": "Optimalno planiranje elektroenergetskih sistema"
-    },
-    {
-      "sifra": "19D021PEM",
-      "vreme": null,
-      "naziv": "Proračun elektroenergetskih mreža"
-    },
-    {
-      "sifra": "19D021PES",
-      "vreme": null,
-      "naziv": "Pouzdanost elektroenergetskih sistema"
-    },
-    {
-      "sifra": "19D021PIT",
-      "vreme": null,
-      "naziv": "Primena informacionih tehnologija u elektroenergetici"
-    },
-    {
-      "sifra": "19D021PPA",
-      "vreme": null,
-      "naziv": "Primena programskih alata u elektroenergetici"
-    },
-    {
-      "sifra": "19D021PRE",
-      "vreme": null,
-      "naziv": "Planiranje rada elektroenergetskih sistema u interkonekciji"
-    },
-    {
-      "sifra": "19D021RZ",
-      "vreme": null,
-      "naziv": "Relejna zaštita postrojenja i mreža"
-    },
-    {
-      "sifra": "19D021SES",
-      "vreme": null,
-      "naziv": "Stabilnost elektroenergetskih sistema"
-    },
-    {
-      "sifra": "19D021UES",
-      "vreme": null,
-      "naziv": "Upravljanje elektroenergetskim sistemima"
-    },
-    {
-      "sifra": "19D021UZS",
-      "vreme": null,
-      "naziv": "Uzemljivački sistemi"
-    },
-    {
-      "sifra": "19D021FVH",
-      "vreme": null,
-      "naziv": "Faktor snage i metode za popravku faktora snage u prisustvu viših harmonika"
-    },
-    {
-      "sifra": "19D021FRU",
-      "vreme": null,
-      "naziv": "Fleksibilni regulacioni uređaji u elektroenergetskim prenosnim mrežama"
-    },
-    {
-      "sifra": "19D031AMT",
-      "vreme": null,
-      "naziv": "Akustičke merne tehnike"
-    },
-    {
-      "sifra": "19D031AP",
-      "vreme": null,
-      "naziv": "Akustika prostorija"
-    },
-    {
-      "sifra": "19D031BIM",
-      "vreme": null,
-      "naziv": null
-    },
-    {
-      "sifra": "19D031BTS",
-      "vreme": null,
-      "naziv": null
-    },
-    {
-      "sifra": "19D031VIR",
-      "vreme": null,
-      "naziv": null
-    },
-    {
-      "sifra": "19D031GT",
-      "vreme": null,
-      "naziv": "Govorne tehnologije"
-    },
-    {
-      "sifra": "19D031DOS",
-      "vreme": null,
-      "naziv": "Digitalna obrada signala"
-    },
-    {
-      "sifra": "19D031DSP",
-      "vreme": null,
-      "naziv": "Diskretni slučajni procesi u telekomunikacijama"
-    },
-    {
-      "sifra": "19D031DTS",
-      "vreme": null,
-      "naziv": "Distribuirani telekomunikacioni sistemi"
-    },
-    {
-      "sifra": "19D031EET",
-      "vreme": null,
-      "naziv": "Energetski efikasne telekomunikacione mreže"
-    },
-    {
-      "sifra": "19D031KOGR",
-      "vreme": null,
-      "naziv": "Kognitivne radio mreže"
-    },
-    {
-      "sifra": "19D031KRM",
-      "vreme": null,
-      "naziv": "Komunikacione i računarske mreže"
-    },
-    {
-      "sifra": "19D031KTT",
-      "vreme": null,
-      "naziv": "Kooperativne tehnike u telekomunikacijama"
-    },
-    {
-      "sifra": "19D031LIN",
-      "vreme": null,
-      "naziv": "Linearne i nelinearne metode analize signala"
-    },
-    {
-      "sifra": "19D031MIoT",
-      "vreme": null,
-      "naziv": null
-    },
-    {
-      "sifra": "19D031MMZ",
-      "vreme": null,
-      "naziv": "Metode modelovanja zvučnog polja"
-    },
-    {
-      "sifra": "19D031MSKS",
-      "vreme": null,
-      "naziv": "Modelovanje saobraćaja u M2M komunikacionim sistemima"
-    },
-    {
-      "sifra": "19D031MTK",
-      "vreme": null,
-      "naziv": "Moderna teorija kodovanja i kriptografije"
-    },
-    {
-      "sifra": "19D031NKT",
-      "vreme": null,
-      "naziv": "Napredne komunikacione tehnologije"
-    },
-    {
-      "sifra": "19D031OPM",
-      "vreme": null,
-      "naziv": "Obrada i pretraživanje multimedijalnih sadržaja"
-    },
-    {
-      "sifra": "19D031OSM",
-      "vreme": null,
-      "naziv": "Obrada signala sa mikrofonskih nizova"
-    },
-    {
-      "sifra": "19D031PVO",
-      "vreme": null,
-      "naziv": "Prostorno - vremenska obrada signala"
-    },
-    {
-      "sifra": "19D031PTS",
-      "vreme": null,
-      "naziv": "Personalizovani telekomunikacioni servisi"
-    },
-    {
-      "sifra": "19D031SMR",
-      "vreme": null,
-      "naziv": "Sistemi mobilnih radio-veza"
-    },
-    {
-      "sifra": "19D031SOS",
-      "vreme": null,
-      "naziv": "Simbolička obrada signala"
-    },
-    {
-      "sifra": "19D031SRT",
-      "vreme": null,
-      "naziv": "Savremene radio-tehnologije"
-    },
-    {
-      "sifra": "19D031STM",
-      "vreme": null,
-      "naziv": "Sinhronizacija u telekomunikacionim mrežama"
-    },
-    {
-      "sifra": "19D031TA",
-      "vreme": null,
-      "naziv": "Tehnička audiologija"
-    },
-    {
-      "sifra": "19D031TIP",
-      "vreme": null,
-      "naziv": "Teorija i praksa komutacija"
-    },
-    {
-      "sifra": "19D031TMD",
-      "vreme": null,
-      "naziv": "Telekomunikacione mreže data centara"
-    },
-    {
-      "sifra": "19D031TPR",
-      "vreme": null,
-      "naziv": "Tehnike pozicioniranja u radio mrežama"
-    },
-    {
-      "sifra": "19D031TTS",
-      "vreme": null,
-      "naziv": "Teorija telekomunikacionog saobraćaja"
-    },
-    {
-      "sifra": "19D041DRF",
-      "vreme": null,
-      "naziv": "Dizajn integrisanih RF kola"
-    },
-    {
-      "sifra": "19D041IKR",
-      "vreme": null,
-      "naziv": "Integrisana kola za komunikacione i radarske sisteme"
-    },
-    {
-      "sifra": "19D041MNS",
-      "vreme": null,
-      "naziv": null
-    },
-    {
-      "sifra": "19D041MOS",
-      "vreme": null,
-      "naziv": "Multirezoluciona obrada signala"
-    },
-    {
-      "sifra": "19D041OAE",
-      "vreme": null,
-      "naziv": "Odabrana poglavlja iz analogne elektronike"
-    },
-    {
-      "sifra": "19D041OOS",
-      "vreme": null,
-      "naziv": "Odabrana poglavlja iz digitalne obrade signala"
-    },
-    {
-      "sifra": "19D041OPD",
-      "vreme": null,
-      "naziv": "Odabrana poglavlja iz digitalne obrade slike"
-    },
-    {
-      "sifra": "19D041OPE",
-      "vreme": null,
-      "naziv": "Odabrana poglavlja iz energetske elektronike"
-    },
-    {
-      "sifra": "19D041OPMV",
-      "vreme": null,
-      "naziv": "Odabrana poglavlja iz mašinske vizije"
-    },
-    {
-      "sifra": "19D041PIP",
-      "vreme": null,
-      "naziv": "Projektovanje i primena pametnih senzora"
-    },
-    {
-      "sifra": "19D041PIS",
-      "vreme": null,
-      "naziv": "Projektovanje integrisanih kola i sistema"
-    },
-    {
-      "sifra": "19D041PMR",
-      "vreme": null,
-      "naziv": "Primena mikroračunara"
-    },
-    {
-      "sifra": "19D041PNR",
-      "vreme": null,
-      "naziv": "Projektovanje namenskih računarskih sistema"
-    },
-    {
-      "sifra": "19D041PPS",
-      "vreme": null,
-      "naziv": "Primena programabilnih sistema na čipu"
-    },
-    {
-      "sifra": "19D041PSD",
-      "vreme": null,
-      "naziv": "Primena sigma-delta tehnike u obradi signala"
-    },
-    {
-      "sifra": "19D041SSI",
-      "vreme": null,
-      "naziv": "Senzorski sistemi i specijalna instrumentacija"
-    },
-    {
-      "sifra": "19D041FSP",
-      "vreme": null,
-      "naziv": "Fazno sinhronisane petlje"
-    },
-    {
-      "sifra": "19D051ARS",
-      "vreme": null,
-      "naziv": "Autonomni robotski sistemi bez ljudske posade"
-    },
-    {
-      "sifra": "19D051KES",
-      "vreme": null,
-      "naziv": "Klasifikacija i estimacija signala"
-    },
-    {
-      "sifra": "19D051MIE",
-      "vreme": null,
-      "naziv": "Metode i instrumentacija za elektrofiziologiju"
-    },
-    {
-      "sifra": "19D051NVM",
-      "vreme": null,
-      "naziv": "Neurovizuelizacione metode"
-    },
-    {
-      "sifra": "19D051NM",
-      "vreme": null,
-      "naziv": "Neuralne mreže"
-    },
-    {
-      "sifra": "19D051NMS",
-      "vreme": null,
-      "naziv": "Nelinearni multivarijabilni sistemi"
-    },
-    {
-      "sifra": "19D051OAS",
-      "vreme": null,
-      "naziv": "Optimalni i adaptivni stohastički sistemi"
-    },
-    {
-      "sifra": "19D051OMO",
-      "vreme": null,
-      "naziv": "Odabrane metode obrade fizioloških signala"
-    },
-    {
-      "sifra": "19D051OPDOS",
-      "vreme": null,
-      "naziv": "Odabrane primene digitalne obrade slike"
-    },
-    {
-      "sifra": "19D051PPC",
-      "vreme": null,
-      "naziv": null
-    },
-    {
-      "sifra": "19D051PRO",
-      "vreme": null,
-      "naziv": "Primenjena robusna optimizacija"
-    },
-    {
-      "sifra": "19D051SDMU",
-      "vreme": null,
-      "naziv": "Sistemi za distribuirano merenje i upravljanje"
-    },
-    {
-      "sifra": "19D051SMA",
-      "vreme": null,
-      "naziv": null
-    },
-    {
-      "sifra": "19D051SMP",
-      "vreme": null,
-      "naziv": "Savremene metode za projektovanje regulatora u sistemima upravljanja"
-    },
-    {
-      "sifra": "19D051SRS",
-      "vreme": null,
-      "naziv": "Specijalni robotski sistemi"
-    },
-    {
-      "sifra": "19D051STZ",
-      "vreme": null,
-      "naziv": "Savremene tehnologije u zdravstvu"
-    },
-    {
-      "sifra": "19D051TOP",
-      "vreme": null,
-      "naziv": "Tehnike obrade i prepoznavanja govornog signala"
-    },
-    {
-      "sifra": "19D051TRS",
-      "vreme": null,
-      "naziv": "Teorija robotskih sistema"
-    },
-    {
-      "sifra": "19D051USS",
-      "vreme": null,
-      "naziv": "Upravljanje složenim sistemima"
-    },
-    {
-      "sifra": "19D061BSP",
-      "vreme": null,
-      "naziv": "Biomedicinski senzori i pretvarači"
-    },
-    {
-      "sifra": "19D061DZZO",
-      "vreme": null,
-      "naziv": "Dozimetrija, zaštita od zračenja i nuklearni otpad"
-    },
-    {
-      "sifra": "19D061ESP",
-      "vreme": null,
-      "naziv": "Elektronska struktura poluprovodnika"
-    },
-    {
-      "sifra": "19D061KO",
-      "vreme": null,
-      "naziv": "Kvantna optika"
-    },
-    {
-      "sifra": "19D061KT",
-      "vreme": null,
-      "naziv": "Kvantni transport"
-    },
-    {
-      "sifra": "19D061KFFP",
-      "vreme": null,
-      "naziv": "Kompleksni fenomeni u fizici plazme"
-    },
-    {
-      "sifra": "19D061MJZ",
-      "vreme": null,
-      "naziv": "Merenje jonizujućeg zračenja"
-    },
-    {
-      "sifra": "19D061MN",
-      "vreme": null,
-      "naziv": "Modelovanje nanostruktura"
-    },
-    {
-      "sifra": "19D061MPL",
-      "vreme": null,
-      "naziv": "Modelovanje poluprovodničkih lasera"
-    },
-    {
-      "sifra": "19D061MFKS",
-      "vreme": null,
-      "naziv": "Moderne fotonske komponente i sistemi"
-    },
-    {
-      "sifra": "19D061NO",
-      "vreme": null,
-      "naziv": "Nelinearna optika"
-    },
-    {
-      "sifra": "19D061NSRN",
-      "vreme": null,
-      "naziv": "Numerička simulacija radijacionih i nuklearnih procesa"
-    },
-    {
-      "sifra": "19D061OINP",
-      "vreme": null,
-      "naziv": "Optimizacija i inženjering nanostrukturnih parametara"
-    },
-    {
-      "sifra": "19D061OMM",
-      "vreme": null,
-      "naziv": "Optoelektronske merne metode"
-    },
-    {
-      "sifra": "19D061OOPH",
-      "vreme": null,
-      "naziv": "Optičke osobine poluprovodničkih heterostruktura"
-    },
-    {
-      "sifra": "19D061PIK",
-      "vreme": null,
-      "naziv": "Projektovanje integrisanih kola"
-    },
-    {
-      "sifra": "19D061POTS",
-      "vreme": null,
-      "naziv": "Prostiranje optičkih talasa u kompleksnim sredinama"
-    },
-    {
-      "sifra": "19D061RKE",
-      "vreme": null,
-      "naziv": "Radijaciona kompatibilnost elektrotehničkih komponenti"
-    },
-    {
-      "sifra": "19D061TPNF",
-      "vreme": null,
-      "naziv": "Transportni procesi u nanoelektronici i fotonici"
-    },
-    {
-      "sifra": "19D061FK",
-      "vreme": null,
-      "naziv": "Fotonske komunikacije"
-    },
-    {
-      "sifra": "19D061FO",
-      "vreme": null,
-      "naziv": "Furijeova optika"
-    },
-    {
-      "sifra": "19D071APR",
-      "vreme": null,
-      "naziv": "Antene i prostiranje radiotalasa"
-    },
-    {
-      "sifra": "19D071ASA",
-      "vreme": null,
-      "naziv": "Analiza i sinteza antena"
-    },
-    {
-      "sifra": "19D071EKI",
-      "vreme": null,
-      "naziv": "Elektromagnetska kompatibilnost i integritet signala"
-    },
-    {
-      "sifra": "19D071EM",
+      "sifra": "13E072OEM",
       "vreme": null,
       "naziv": "Elektromagnetika"
     },
     {
-      "sifra": "19D071ME",
+      "sifra": "13E072TEM",
       "vreme": null,
-      "naziv": "Mikrotalasna elektronika"
+      "naziv": "Elektromagnetika"
     },
     {
-      "sifra": "19D071MEM",
-      "vreme": null,
-      "naziv": "Memristori i memristivni sistemi"
-    },
-    {
-      "sifra": "19D071MKE",
-      "vreme": null,
-      "naziv": "Metod konačnih elemenata u elektromagnetici"
-    },
-    {
-      "sifra": "19D071MME",
-      "vreme": null,
-      "naziv": "Metod momenata u elektromagnetici"
-    },
-    {
-      "sifra": "19D071MPK",
-      "vreme": null,
-      "naziv": "Mikrotalasna pasivna kola"
-    },
-    {
-      "sifra": "19D071MT",
-      "vreme": null,
-      "naziv": "Mikrotalasna tehnika"
-    },
-    {
-      "sifra": "19D071NTM",
-      "vreme": null,
-      "naziv": "Napredne tehnike za mikrotalasno formiranje slike"
-    },
-    {
-      "sifra": "19D071RFM",
+      "sifra": "13E113ZP",
       "vreme": null,
       "naziv": null
     },
     {
-      "sifra": "19D081AR",
+      "sifra": "19E012EINN",
       "vreme": null,
-      "naziv": "Automatsko rezonovanje"
+      "naziv": "Elektroenergetske instalacije niskog napona"
     },
     {
-      "sifra": "19D081EFM",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Elementi fazi matematike sa primenama"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D081KAD",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Kvalitativna analiza diferencnih jednačina"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D081KMF",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Kanonske matrične forme i njihove primene u elektrotehnici"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D081KOMB",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Kombinatorika i primene"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D081LA",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Linearna algebra"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D081MI",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Mera i integracija"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D081MMF",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Matematičko modelovanje fizičko-tehničkih procesa"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D081NA",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Numerička analiza"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D081OPA",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Odabrana poglavlja iz algebre"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D081PS",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Primenjena statistika"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D081SIMB",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Odabrana poglavlja iz simboličke algebre"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D081SM",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Stohastički modeli"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D081SF",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Specijalne funkcije"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D081TA",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Teorija aproksimacija"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D081TG",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Teorija grafova sa primenama u elektrotehnici i računarstvu"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D081FAP",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Funkcionalna analiza i primene"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D091EJ",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Engleski jezik"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D091NJ",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Nemački jezik"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D091RJ",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Ruski jezik"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D091UNR",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Uvod u naučni rad"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D091FJ",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Francuski jezik"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D111APS",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Arhitekture za podršku softverskim sistemima"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D111BR",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Bezbednost računara u oblaku"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D111VIE",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": null
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D111VLS",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Projektovanje računara u VLSI tehnici"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D111VS",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Virtuelna stvarnost"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D111IP",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Internet programiranje"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D111LRM",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Lokalne računarske mreže"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D111MI",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Medicinska informatika"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D111MMR",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Modelovanje i merenje računarskih performansi"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D111MMS",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Multimedijalni sistemi - odabrana poglavlja"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D111MPS",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Multiprocesorski sistemi"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D111NAM",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Napredni algoritmi mašinskog učenja"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D111OOA",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Objektno orijentisana analiza i projektovanje"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D111OPA",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Odabrana poglavlja iz arhitekture računarskih sistema"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D111OPO",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Odabrana poglavlja iz operativnih sistema"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D111OPP",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Odabrana poglavlja iz programskih prevodilaca"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D111OPR",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Odabrana poglavlja iz računarske grafike"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D111ORB",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Objektne i relacione baze podataka"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D111OSD",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Organizacija sistema diskova"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D111PBP",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Projektovanje baza podataka"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D111PPJ",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Principi programskih jezika"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D111RMS",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Razvoj mikroprocesorskog softvera"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D111SDM",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Softverski definisane mreže"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D111SZR",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Sigurnost i zaštita računarskih sistema"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D111SIZ",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Softversko inženjerstvo zasnovano na modelima"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D111SM",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Senzorske mreže"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D111SSR",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Softverski sistemi za rad u realnom vremenu"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D111ST",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Softverska tehnika"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D111TCP",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": null
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19D111FJA",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Formalni jezici i automati"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19E014PEP",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Praktikum iz elektromotornih pogona"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19E014PREN",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Projekat iz energetskih pretvarača"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19E014PRPE",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Projekat iz elektromotornih pogona"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19E014PRSM",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Projekat iz sinhronih mašina"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19E014PRUP",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Projekat iz digitalnog upravljanja pretvaračima i pogonima"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19E024PRRP",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Projekat iz razvodnih postrojenja"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19E024PRTV",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Projekat iz tehnike visokog napona"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19E033SOS",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Sistemi za obradu slike"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19E072PRK",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Praktikum iz računarske analize kola"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19E092FJ3",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Francuski jezik 3"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19E112OR",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Organizacija računara"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19M011RSTP",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": null
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19M013EMJS",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Električne mašine za jednosmernu struju 2"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19M014PEP",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Elektromotorni pogoni - Praktikum"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19M014PREI",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Projekat iz niskonaponskih električnih instalacija stambene zgrade"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19M014PREN",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Projekat iz energetskih pretvarača 2"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19M014PRET",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Projektovanje distributivnih transformatora"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19M014PRPE",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Projekat regulisanog elektromotornog pogona"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19M023EM2",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Električna merenja u elektroenergetici"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19M031ADP",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Akustični dizajn prostorija i zvučna zaštita"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19M031AOS",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Adaptivna obrada signala"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19M031PA",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Personalizovane aplikacije"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19M033SOS",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Savremeni sistemi za obradu slike"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19M061MIT",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Medicinska informatika i telemedicina"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19M061MMRS",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Metrologija i merni računarski sistemi"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19M061PAFK",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Projektovanje aktivnih fotonskih integrisanih kola"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19M061PIK",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Projektovanje i karakterizacija pasivnih fotonskih integrisanih kola"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19M061PLZ",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Primena laserskog zračenja"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19M061RE",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Radioekologija"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19M061URO",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Upravljanje radioaktivnim otpadom"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19M061FMS",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Fizika medicinskog slikanja i radioterapije"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19M064MFMS",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Odabrana poglavlja iz medicinskih primena zračenja"
+      "naziv": "Programiranje 2"
     },
     {
-      "sifra": "19M073SAP",
+      "sifra": "19E111P2",
       "vreme": null,
-      "naziv": "Projektovanje elektromagnetskih sistema korišćenjem softverskih alata"
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
+    },
+    {
+      "sifra": "19E111P2",
+      "vreme": null,
+      "naziv": "Programiranje 2"
     }
   ],
-  "26.01.2023.": [
+  "08.04.2023.": [
     {
-      "sifra": "13E013ENT",
+      "sifra": "13E013EMP",
       "vreme": null,
-      "naziv": "Energetski transformatori"
+      "naziv": "Elektromotorni pogoni"
     },
     {
-      "sifra": "13E014TPE",
+      "sifra": "13E013UPE",
       "vreme": null,
-      "naziv": "Termički procesi u elektroenergetici"
+      "naziv": "Upravljanje elektromotornim pogonima"
     },
     {
-      "sifra": "13E034MAP",
+      "sifra": "13E033OTR",
       "vreme": null,
-      "naziv": "Radio tehnologije"
+      "naziv": "Osnovi telekomunikacija"
     },
     {
-      "sifra": "13E034TV",
+      "sifra": "13E082VIS",
       "vreme": null,
-      "naziv": "Televizija"
+      "naziv": "Verovatnoća i statistika"
     },
     {
-      "sifra": "13E053DOS",
+      "sifra": "13E082VISR",
       "vreme": null,
-      "naziv": "Digitalna obrada signala"
-    },
-    {
-      "sifra": "13E054MAS",
-      "vreme": null,
-      "naziv": "Metode analize elektrofizioloških signala"
-    },
-    {
-      "sifra": "13E062MUE",
-      "vreme": null,
-      "naziv": "Materijali u elektrotehnici"
-    },
-    {
-      "sifra": "13E063KE",
-      "vreme": null,
-      "naziv": "Kvantna elektronika"
-    },
-    {
-      "sifra": "13E082RPM3",
-      "vreme": null,
-      "naziv": null
-    },
-    {
-      "sifra": "13E083PRM",
-      "vreme": null,
-      "naziv": "Praktikum iz računarskih alata u matematici"
-    },
-    {
-      "sifra": "13E114PS",
-      "vreme": null,
-      "naziv": "Projektovanje softvera"
-    },
-    {
-      "sifra": "13M021PES",
-      "vreme": null,
-      "naziv": "Planiranje elektroenergetskih sistema"
-    },
-    {
-      "sifra": "13M054MAS",
-      "vreme": null,
-      "naziv": "Odabrane metode obrade biosignala"
-    },
-    {
-      "sifra": "13M111ZRM",
-      "vreme": null,
-      "naziv": null
-    },
-    {
-      "sifra": "13M114PS",
-      "vreme": null,
-      "naziv": "Modelovanje i projektovanje softvera"
-    },
-    {
-      "sifra": "13S113PS",
-      "vreme": null,
-      "naziv": "Projektovanje softvera"
-    },
-    {
-      "sifra": "19E013ENT",
-      "vreme": null,
-      "naziv": "Energetski transformatori"
-    },
-    {
-      "sifra": "19E014TPE",
-      "vreme": null,
-      "naziv": "Termički procesi u elektroenergetici"
-    },
-    {
-      "sifra": "19E042DE1",
-      "vreme": null,
-      "naziv": "Digitalna elektronika 1"
-    },
-    {
-      "sifra": "19E062MUE",
-      "vreme": null,
-      "naziv": "Materijali u elektrotehnici"
-    },
-    {
-      "sifra": "19M013UEP",
-      "vreme": null,
-      "naziv": "Upravljanje energetskim pretvaračima"
-    }
-  ],
-  "22.01.2023.": [
-    {
-      "sifra": "13E013ZZE",
-      "vreme": null,
-      "naziv": "Zagrevanje i zaštita električnih mašina"
-    },
-    {
-      "sifra": "13E053MSR",
-      "vreme": null,
-      "naziv": "Merni sistemi u računarstvu"
-    },
-    {
-      "sifra": "13E053OSU",
-      "vreme": null,
-      "naziv": "Osnovi sistema upravljanja"
-    },
-    {
-      "sifra": "13E053OSUE",
-      "vreme": null,
-      "naziv": "Osnovi sistema upravljanja"
-    },
-    {
-      "sifra": "13E053SAU1",
-      "vreme": null,
-      "naziv": "Sistemi automatskog upravljanja 1"
-    },
-    {
-      "sifra": "13E053SAUG",
-      "vreme": null,
-      "naziv": "Sistemi automatskog upravljanja"
-    },
-    {
-      "sifra": "13E064FEGP",
-      "vreme": null,
-      "naziv": "Fizička elektronika gasova i plazme"
-    },
-    {
-      "sifra": "13M021EES",
-      "vreme": null,
-      "naziv": "Eksploatacija elektroenergetskih sistema"
-    },
-    {
-      "sifra": "13M021EKO",
-      "vreme": null,
-      "naziv": "Elektromagnetna kompatibilnost"
-    },
-    {
-      "sifra": "13M031SS",
-      "vreme": null,
-      "naziv": "Satelitski sistemi"
-    },
-    {
-      "sifra": "13M041DVS",
-      "vreme": null,
-      "naziv": "Digitalni VLSI sistemi"
-    },
-    {
-      "sifra": "13S041OE",
-      "vreme": null,
-      "naziv": "Osnovi elektronike"
-    },
-    {
-      "sifra": "13S113IS1",
-      "vreme": null,
-      "naziv": "Informacioni sistemi 1"
-    },
-    {
-      "sifra": "19E013EP2",
-      "vreme": null,
-      "naziv": "Energetski pretvarači 2"
-    },
-    {
-      "sifra": "19E013ZZE",
-      "vreme": null,
-      "naziv": "Zagrevanje i zaštita električnih mašina"
-    },
-    {
-      "sifra": "19E043ANR",
-      "vreme": null,
-      "naziv": "Arhitektura i organizacija namenskih računara"
-    },
-    {
-      "sifra": "19E053OSU",
-      "vreme": null,
-      "naziv": "Osnovi sistema upravljanja"
-    },
-    {
-      "sifra": "19E053SAUG",
-      "vreme": null,
-      "naziv": "Sistemi automatskog upravljanja"
-    },
-    {
-      "sifra": "19E071OE1",
-      "vreme": null,
-      "naziv": "Osnovi elektrotehnike 1"
-    },
-    {
-      "sifra": "19E071OE1",
-      "vreme": null,
-      "naziv": "Osnovi elektrotehnike 1"
-    },
-    {
-      "sifra": "19E071OE1",
-      "vreme": null,
-      "naziv": "Osnovi elektrotehnike 1"
-    },
-    {
-      "sifra": "19M013ZZE",
-      "vreme": null,
-      "naziv": "Toplotni proračun i zaštita električnih mašina"
-    }
-  ],
-  "23.01.2023.": [
-    {
-      "sifra": "13E013PDS",
-      "vreme": null,
-      "naziv": "Praktikum iz digitalnih signalnih procesora"
-    },
-    {
-      "sifra": "13E023OPE",
-      "vreme": null,
-      "naziv": null
-    },
-    {
-      "sifra": "13E033OPI",
-      "vreme": null,
-      "naziv": "Osnove i primena interneta"
-    },
-    {
-      "sifra": "13E044PPT",
-      "vreme": null,
-      "naziv": "Praktikum - Primena TCP/IP tehnologija u namenskim sistemima"
-    },
-    {
-      "sifra": "13E063SF",
-      "vreme": null,
-      "naziv": "Statistička fizika"
-    },
-    {
-      "sifra": "13E073MT",
-      "vreme": null,
-      "naziv": "Mikrotalasna tehnika"
-    },
-    {
-      "sifra": "13E082NAD",
-      "vreme": null,
-      "naziv": "Numerička analiza i diskretna matematika"
-    },
-    {
-      "sifra": "13M013PDS",
-      "vreme": null,
-      "naziv": "Praktikum iz digitalnih signalnih procesora 2"
-    },
-    {
-      "sifra": "13M021DRZ",
-      "vreme": null,
-      "naziv": "Digitalne relejne zaštite"
-    },
-    {
-      "sifra": "13M031ASR",
-      "vreme": null,
-      "naziv": "Arhitektura svičeva i rutera"
-    },
-    {
-      "sifra": "13S082NAD",
-      "vreme": null,
-      "naziv": "Numerička analiza i diskretna matematika"
-    },
-    {
-      "sifra": "13S114PIA",
-      "vreme": null,
-      "naziv": "Programiranje Internet aplikacija"
-    },
-    {
-      "sifra": "19E023OPE",
-      "vreme": null,
-      "naziv": null
-    },
-    {
-      "sifra": "19E032OPI",
-      "vreme": null,
-      "naziv": "Osnove i primena interneta"
-    },
-    {
-      "sifra": "19E082NAD",
-      "vreme": null,
-      "naziv": "Numerička analiza i diskretna matematika"
-    }
-  ],
-  "14.01.2023.": [
-    {
-      "sifra": "13E013REP",
-      "vreme": null,
-      "naziv": "Regulacija elektromotornih pogona"
-    },
-    {
-      "sifra": "13E034KS",
-      "vreme": null,
-      "naziv": "Komutacioni sistemi"
-    },
-    {
-      "sifra": "13E054URV",
-      "vreme": null,
-      "naziv": "Upravljanje u realnom vremenu"
-    },
-    {
-      "sifra": "13E063FTM",
-      "vreme": null,
-      "naziv": "Fizičko tehnička merenja"
-    },
-    {
-      "sifra": "13E064SDOS",
-      "vreme": null,
-      "naziv": "Sistemi za digitalnu obradu slike"
-    },
-    {
-      "sifra": "13E082M3",
-      "vreme": null,
-      "naziv": "Matematika 3"
-    },
-    {
-      "sifra": "13E091EJ1",
-      "vreme": null,
-      "naziv": "Engleski jezik 1"
-    },
-    {
-      "sifra": "13E092EJ3",
-      "vreme": null,
-      "naziv": "Engleski jezik 3"
-    },
-    {
-      "sifra": "13E092EJ32",
-      "vreme": null,
-      "naziv": "Engleski jezik 3"
-    },
-    {
-      "sifra": "13E112ASP",
-      "vreme": null,
-      "naziv": "Algoritmi i strukture podataka"
-    },
-    {
-      "sifra": "13M031KR",
-      "vreme": null,
-      "naziv": "Kognitivni radio"
-    },
-    {
-      "sifra": "13M091EJ",
-      "vreme": null,
-      "naziv": "Engleski jezik"
-    },
-    {
-      "sifra": "13S091EJN",
-      "vreme": null,
-      "naziv": "Engleski jezik - niži"
-    },
-    {
-      "sifra": "13S112ASP2",
-      "vreme": null,
-      "naziv": "Algoritmi i strukture podataka 2"
-    },
-    {
-      "sifra": "13S114IS2",
-      "vreme": null,
-      "naziv": "Informacioni sistemi 2"
-    },
-    {
-      "sifra": "19E092EJ3",
-      "vreme": null,
-      "naziv": "Engleski jezik 3"
-    }
-  ],
-  "19.01.2023.": [
-    {
-      "sifra": "13E023EES",
-      "vreme": null,
-      "naziv": "Elementi elektroenergetskih sistema"
-    },
-    {
-      "sifra": "13E024DIM",
-      "vreme": null,
-      "naziv": "Distributivne i industrijske mreže"
-    },
-    {
-      "sifra": "13E043DE",
-      "vreme": null,
-      "naziv": "Digitalna elektronika"
-    },
-    {
-      "sifra": "13E053PDO",
-      "vreme": null,
-      "naziv": "Praktikum iz digitalne obrade signala"
-    },
-    {
-      "sifra": "13E064PKN",
-      "vreme": null,
-      "naziv": "Poluprovodničke kvantne nanostrukture"
+      "naziv": "Verovatnoća i statistika"
     },
     {
       "sifra": "13E082VIST",
@@ -2404,504 +733,4067 @@
       "naziv": "Verovatnoća i statistika"
     },
     {
-      "sifra": "13E114IP",
+      "sifra": "13E082VS",
       "vreme": null,
-      "naziv": "Internet programiranje"
+      "naziv": "Verovatnoća i statistika"
     },
     {
-      "sifra": "13E114PP1",
+      "sifra": "13E114IS1",
       "vreme": null,
-      "naziv": "Programski prevodioci 1"
+      "naziv": "Informacioni sistemi 1"
     },
     {
-      "sifra": "13M114IP",
+      "sifra": "13M111IS2",
       "vreme": null,
-      "naziv": null
+      "naziv": "Informacioni sistemi 2"
     },
     {
-      "sifra": "13S114PP1",
+      "sifra": "19E033KT",
       "vreme": null,
-      "naziv": "Programski prevodioci 1"
-    },
-    {
-      "sifra": "19E023EES",
-      "vreme": null,
-      "naziv": "Elementi elektroenergetskih sistema"
-    },
-    {
-      "sifra": "19E024DIM",
-      "vreme": null,
-      "naziv": "Distributivne i industrijske mreže"
+      "naziv": "Komunikacione tehnologije"
     }
   ],
-  "21.01.2023.": [
+  "null": [
     {
-      "sifra": "13E024AE2",
+      "sifra": "13E014PREP",
       "vreme": null,
-      "naziv": "Analiza elektroenergetskih sistema 2"
+      "naziv": "Praktikum iz regulacije elektromotornih pogona"
     },
     {
-      "sifra": "13E044PVI",
+      "sifra": "13E024VNO",
       "vreme": null,
-      "naziv": "Praktikum iz virtuelne instrumentacije"
+      "naziv": "Visokonaponska oprema"
     },
     {
-      "sifra": "13E054NS2",
-      "vreme": null,
-      "naziv": "Nelinearni sistemi upravljanja 2"
-    },
-    {
-      "sifra": "13E072GTEK",
-      "vreme": null,
-      "naziv": "Teorija električnih kola"
-    },
-    {
-      "sifra": "13E072OTEK",
-      "vreme": null,
-      "naziv": "Teorija električnih kola"
-    },
-    {
-      "sifra": "13E072OTEK",
-      "vreme": null,
-      "naziv": "Teorija električnih kola"
-    },
-    {
-      "sifra": "13E073RTEK",
-      "vreme": null,
-      "naziv": "Teorija električnih kola"
-    },
-    {
-      "sifra": "13E112ORT2",
-      "vreme": null,
-      "naziv": "Osnovi računarske tehnike 2"
-    },
-    {
-      "sifra": "13E114IS",
-      "vreme": null,
-      "naziv": "Inteligentni sistemi"
-    },
-    {
-      "sifra": "13M071PRMF",
-      "vreme": null,
-      "naziv": "Projektovanje mikrotalasnih filtara"
-    },
-    {
-      "sifra": "13M114IS",
-      "vreme": null,
-      "naziv": "Inteligentni servisi i sistemi"
-    },
-    {
-      "sifra": "13S112ORT2",
-      "vreme": null,
-      "naziv": "Osnovi računarske tehnike 2"
-    },
-    {
-      "sifra": "13S113IS",
-      "vreme": null,
-      "naziv": "Inteligentni sistemi"
-    },
-    {
-      "sifra": "19E024AE2",
-      "vreme": null,
-      "naziv": "Analiza elektroenergetskih sistema 2"
-    },
-    {
-      "sifra": "19E072GTEK",
-      "vreme": null,
-      "naziv": "Teorija električnih kola"
-    },
-    {
-      "sifra": "19M021IOIG",
-      "vreme": null,
-      "naziv": "Integracija obnovljivih izvora u elektroenergetskim sistemima"
-    },
-    {
-      "sifra": "19M024AE2",
-      "vreme": null,
-      "naziv": "Analiza elektroenergetskih sistema sa uređajima energetske elektronike"
-    }
-  ],
-  "16.01.2023.": [
-    {
-      "sifra": "13E024RPOG",
-      "vreme": null,
-      "naziv": "Razvodna postrojenja"
-    },
-    {
-      "sifra": "13E053SSE",
-      "vreme": null,
-      "naziv": "Stohastički sistemi i estimacija"
-    },
-    {
-      "sifra": "13E063OB",
-      "vreme": null,
-      "naziv": "Osnovi biofizike"
-    },
-    {
-      "sifra": "13E064LT",
-      "vreme": null,
-      "naziv": "Laserska tehnika"
-    },
-    {
-      "sifra": "13E073AP",
-      "vreme": null,
-      "naziv": "Antene i prostiranje"
-    },
-    {
-      "sifra": "13E113PPK",
-      "vreme": null,
-      "naziv": "Praktikum iz poslovne komunikacije i prezentacije"
-    },
-    {
-      "sifra": "13E114RM2",
-      "vreme": null,
-      "naziv": null
-    },
-    {
-      "sifra": "13M051SKS",
-      "vreme": null,
-      "naziv": "Statistička klasifikacija signala"
-    },
-    {
-      "sifra": "13M111PKI",
-      "vreme": null,
-      "naziv": "Programiranje korisničkih interfejsa"
-    },
-    {
-      "sifra": "13M114RM2",
-      "vreme": null,
-      "naziv": "Odabrana poglavlja iz računarskih mreža"
-    },
-    {
-      "sifra": "13S113RM2",
-      "vreme": null,
-      "naziv": null
-    },
-    {
-      "sifra": "13S114PMU",
-      "vreme": null,
-      "naziv": "Programiranje mobilnih uređaja"
-    },
-    {
-      "sifra": "19E024RPOG",
-      "vreme": null,
-      "naziv": "Razvodna postrojenja"
-    },
-    {
-      "sifra": "19E052DMS",
-      "vreme": null,
-      "naziv": "Dinamika mehaničkih sistema"
-    },
-    {
-      "sifra": "19M021SSE",
-      "vreme": null,
-      "naziv": "Sistemi za skladištenje energije u elektroenergetskim sistemima"
-    },
-    {
-      "sifra": "19M034VS",
-      "vreme": null,
-      "naziv": "Interaktivni video servisi"
-    }
-  ],
-  "18.01.2023.": [
-    {
-      "sifra": "13E024TVN2",
-      "vreme": null,
-      "naziv": "Tehnika visokog napona 2"
-    },
-    {
-      "sifra": "13E033OS1",
-      "vreme": null,
-      "naziv": "Obrada signala 1"
-    },
-    {
-      "sifra": "13E043DOS",
-      "vreme": null,
-      "naziv": "Digitalna obrada signala"
-    },
-    {
-      "sifra": "13E053SA",
-      "vreme": null,
-      "naziv": "Senzori i aktuatori"
-    },
-    {
-      "sifra": "13E062OFE",
-      "vreme": null,
-      "naziv": "Osnovi fizičke elektronike"
-    },
-    {
-      "sifra": "13E064NF",
-      "vreme": null,
-      "naziv": "Nuklearna fizika"
-    },
-    {
-      "sifra": "13E064OPT2",
-      "vreme": null,
-      "naziv": "Optičke telekomunikacije 2"
-    },
-    {
-      "sifra": "13E064OTP",
-      "vreme": null,
-      "naziv": "Optoelektronski telekomunikacioni podsistemi"
-    },
-    {
-      "sifra": "13E111PP1",
-      "vreme": null,
-      "naziv": "Praktikum iz programiranja 1"
-    },
-    {
-      "sifra": "13E113KDP",
-      "vreme": null,
-      "naziv": "Konkurentno i distribuirano programiranje"
-    },
-    {
-      "sifra": "13M011DP2",
-      "vreme": null,
-      "naziv": "Digitalno upravljanje energetskim pretvaračima i pogonima 2"
-    },
-    {
-      "sifra": "13M011EIPZ",
-      "vreme": null,
-      "naziv": "Električne instalacije pametnih zgrada"
-    },
-    {
-      "sifra": "13M061NIN",
-      "vreme": null,
-      "naziv": "Nanomagnetizam i nanospintronika"
-    },
-    {
-      "sifra": "13M111RBS",
-      "vreme": null,
-      "naziv": "Razvoj bezbednog softvera"
-    },
-    {
-      "sifra": "13S032PMT",
+      "sifra": "13E033PMT",
       "vreme": null,
       "naziv": "Principi modernih telekomunikacija"
     },
     {
-      "sifra": "13S111PP1",
+      "sifra": "13E033T3",
       "vreme": null,
-      "naziv": "Praktikum iz programiranja 1"
+      "naziv": "Telekomunikacije 3"
     },
     {
-      "sifra": "13S113TS",
+      "sifra": "13E033TS",
       "vreme": null,
-      "naziv": "Testiranje softvera"
+      "naziv": "Telekomunikacioni sistemi"
     },
     {
-      "sifra": "19E024TVN2",
+      "sifra": "13E034AS",
       "vreme": null,
-      "naziv": "Tehnika visokog napona 2"
+      "naziv": "Audio sistemi"
     },
     {
-      "sifra": "19E043DOS",
+      "sifra": "13E034MIST",
+      "vreme": null,
+      "naziv": "Modeliranje i simulacija u telekomunikacijama"
+    },
+    {
+      "sifra": "13E052PMS",
+      "vreme": null,
+      "naziv": "Praktikum iz merno-akvizicionih sistema"
+    },
+    {
+      "sifra": "13E053AES",
+      "vreme": null,
+      "naziv": "Akvizicija elektrofizioloških signala"
+    },
+    {
+      "sifra": "13E054ABS",
+      "vreme": null,
+      "naziv": "Analiza biomedicinske slike"
+    },
+    {
+      "sifra": "13E063EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "13E063MK",
+      "vreme": null,
+      "naziv": "Mikroelektronska kola"
+    },
+    {
+      "sifra": "13E063SP",
+      "vreme": null,
+      "naziv": "Senzori i pretvarači"
+    },
+    {
+      "sifra": "13E064DZZ",
+      "vreme": null,
+      "naziv": "Dozimetrija i zaštita od zračenja"
+    },
+    {
+      "sifra": "13E081PM2",
+      "vreme": null,
+      "naziv": "Praktikum iz matematike 2"
+    },
+    {
+      "sifra": "13E112RM1",
+      "vreme": null,
+      "naziv": null
+    },
+    {
+      "sifra": "13E113AOR2",
+      "vreme": null,
+      "naziv": "Arhitektura i organizacija računara 2"
+    },
+    {
+      "sifra": "13E114RG",
+      "vreme": null,
+      "naziv": null
+    },
+    {
+      "sifra": "13M011EAE",
+      "vreme": null,
+      "naziv": "Elektroenergetski aspekti energetske efikasnosti zgrada"
+    },
+    {
+      "sifra": "13M031BM",
+      "vreme": null,
+      "naziv": null
+    },
+    {
+      "sifra": "13M031BSM",
+      "vreme": null,
+      "naziv": null
+    },
+    {
+      "sifra": "13M051TOBS",
+      "vreme": null,
+      "naziv": "Tehnike obrade biomedicinskih signala"
+    },
+    {
+      "sifra": "13M054ABS",
+      "vreme": null,
+      "naziv": "Obrada medicinske slike"
+    },
+    {
+      "sifra": "13M114RG",
+      "vreme": null,
+      "naziv": "Interaktivna računarska grafika"
+    },
+    {
+      "sifra": "19E013EP1",
+      "vreme": null,
+      "naziv": "Energetski pretvarači 1"
+    },
+    {
+      "sifra": "19E024VNO",
+      "vreme": null,
+      "naziv": "Visokonaponska oprema"
+    },
+    {
+      "sifra": "19E032EM",
+      "vreme": null,
+      "naziv": "Električna merenja"
+    },
+    {
+      "sifra": "19E032PSA2",
+      "vreme": null,
+      "naziv": "Praktikum softverski alati 2"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    },
+    {
+      "sifra": "19E063DMJ",
+      "vreme": null,
+      "naziv": "Detekcija i merenje jonizujućeg zračenja"
+    },
+    {
+      "sifra": "19E063RNMT",
+      "vreme": null,
+      "naziv": "Radiološka i nuklearna medicinska tehnika"
+    },
+    {
+      "sifra": "19E064EOIE",
+      "vreme": null,
+      "naziv": "Ekološki obnovljivi izvori energije"
+    },
+    {
+      "sifra": "19M014VMP",
+      "vreme": null,
+      "naziv": "Regulisani višemotorni pogoni"
+    },
+    {
+      "sifra": "19M024VNO",
+      "vreme": null,
+      "naziv": "Ispitivanje visokonaponske opreme"
+    }
+  ],
+  "22.04.2023.": [
+    {
+      "sifra": "13E023AE1",
+      "vreme": null,
+      "naziv": "Analiza elektroenergetskih sistema 1"
+    },
+    {
+      "sifra": "13E033RK",
+      "vreme": null,
+      "naziv": "Radio komunikacije"
+    },
+    {
+      "sifra": "13E034JMS",
+      "vreme": null,
+      "naziv": "Javni mobilni sistemi"
+    },
+    {
+      "sifra": "13E053MIP",
+      "vreme": null,
+      "naziv": "Modeliranje i identifikacija procesa"
+    },
+    {
+      "sifra": "13E112OO2",
+      "vreme": null,
+      "naziv": "Objektno-orijentisano programiranje 2"
+    },
+    {
+      "sifra": "13E113USP",
+      "vreme": null,
+      "naziv": "Upravljanje softverskim projektima"
+    },
+    {
+      "sifra": "13M034JMS",
+      "vreme": null,
+      "naziv": "Javne mobilne mreže"
+    },
+    {
+      "sifra": "19E023AE1",
+      "vreme": null,
+      "naziv": "Analiza elektroenergetskih sistema 1"
+    },
+    {
+      "sifra": "19E032TM",
+      "vreme": null,
+      "naziv": "Telekomunikacione mreže"
+    }
+  ],
+  "29.04.2023.": [
+    {
+      "sifra": "13E023TVN1",
+      "vreme": null,
+      "naziv": "Tehnika visokog napona 1"
+    },
+    {
+      "sifra": "13E032OTE",
+      "vreme": null,
+      "naziv": "Osnovi telekomunikacija"
+    },
+    {
+      "sifra": "13E034PPR",
+      "vreme": null,
+      "naziv": "Principi pozicioniranja u radio sistemima"
+    },
+    {
+      "sifra": "13E042OD",
+      "vreme": null,
+      "naziv": "Osnovi digitalne elektronike"
+    },
+    {
+      "sifra": "13E063MIN",
+      "vreme": null,
+      "naziv": "Mikroelektronika i nanoelektronika"
+    },
+    {
+      "sifra": "13E113BP",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "13E114PRS",
+      "vreme": null,
+      "naziv": "Performanse računarskih sistema"
+    },
+    {
+      "sifra": "13M034PPR",
+      "vreme": null,
+      "naziv": "Pozicioniranje u mobilnim mrežama"
+    },
+    {
+      "sifra": "19E023TVN1",
+      "vreme": null,
+      "naziv": "Tehnika visokog napona 1"
+    },
+    {
+      "sifra": "19E032OTE",
+      "vreme": null,
+      "naziv": "Osnovi telekomunikacija"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    },
+    {
+      "sifra": "19E112BPO",
+      "vreme": null,
+      "naziv": "Baze podataka"
+    }
+  ],
+  "27.04.2023.": [
+    {
+      "sifra": "13E024RZ",
+      "vreme": null,
+      "naziv": "Relejna zaštita"
+    },
+    {
+      "sifra": "13E053DOSR",
       "vreme": null,
       "naziv": "Digitalna obrada signala"
     },
     {
-      "sifra": "19E062OFE",
+      "sifra": "13E053NSU",
       "vreme": null,
-      "naziv": "Osnovi fizičke elektronike"
+      "naziv": "Nelinearni sistemi upravljanja"
     },
     {
-      "sifra": "19E063NF",
+      "sifra": "13E054VI",
       "vreme": null,
-      "naziv": "Nuklearna fizika"
+      "naziv": null
     },
     {
-      "sifra": "19M024TVN2",
+      "sifra": "13E064MEMS",
       "vreme": null,
-      "naziv": "Odabrana poglavlja iz tehnike visokog napona 2"
+      "naziv": "Mikroelektromehanički sistemi"
     },
     {
-      "sifra": "19M034ADO",
+      "sifra": "13E082DIF",
       "vreme": null,
-      "naziv": "Iterativni algoritmi za dinamičku optimizaciju"
+      "naziv": "Diferencijalne jednačine"
     },
     {
-      "sifra": "19M061OTP",
+      "sifra": "19E024RZ",
       "vreme": null,
-      "naziv": "Optoelektronski telekomunikacioni podsistemi"
+      "naziv": "Relejna zaštita"
     },
     {
-      "sifra": "19M063NF",
+      "sifra": "19E042DE2",
       "vreme": null,
-      "naziv": "Odabrana poglavlja iz nuklearne fizike i tehnike"
+      "naziv": "Digitalna elektronika 2"
     }
   ],
-  "27.01.2023.": [
+  "30.04.2023.": [
     {
-      "sifra": "13E033T2",
+      "sifra": "13E032OTS",
       "vreme": null,
-      "naziv": "Telekomunikacije 2"
+      "naziv": "Osnovi telekomunikacija"
     },
     {
-      "sifra": "13E034IoT",
+      "sifra": "13E032T1",
       "vreme": null,
-      "naziv": null
+      "naziv": "Telekomunikacije 1"
     },
     {
-      "sifra": "13E044RFE",
+      "sifra": "13E033OTF",
       "vreme": null,
-      "naziv": null
+      "naziv": "Osnovi telekomunikacija"
     },
     {
-      "sifra": "13E063EEU",
+      "sifra": "13E053SAU2",
       "vreme": null,
-      "naziv": "Elementi elektronskih uređaja"
+      "naziv": "Sistemi automatskog upravljanja 2"
     },
     {
-      "sifra": "13E072GEM",
+      "sifra": "19E032OTF",
       "vreme": null,
-      "naziv": "Elektromagnetika"
-    },
-    {
-      "sifra": "13E112OO1",
-      "vreme": null,
-      "naziv": "Objektno-orijentisano programiranje 1"
-    },
-    {
-      "sifra": "13E112OOP",
-      "vreme": null,
-      "naziv": "Objektno orijentisano programiranje"
-    },
-    {
-      "sifra": "13E114MIPS",
-      "vreme": null,
-      "naziv": "Mikroprocesorski sistemi"
-    },
-    {
-      "sifra": "13M034IoT",
-      "vreme": null,
-      "naziv": "Arhitektura IoT mreža"
-    },
-    {
-      "sifra": "13M051MU",
-      "vreme": null,
-      "naziv": null
-    },
-    {
-      "sifra": "13S112OO1",
-      "vreme": null,
-      "naziv": "Objektno-orijentisano programiranje 1"
-    },
-    {
-      "sifra": "13S114MIPS",
-      "vreme": null,
-      "naziv": "Mikroprocesorski sistemi"
-    },
-    {
-      "sifra": "19E061F1",
-      "vreme": null,
-      "naziv": "Fizika 1"
-    },
-    {
-      "sifra": "19E061F1",
-      "vreme": null,
-      "naziv": "Fizika 1"
-    },
-    {
-      "sifra": "19E061F1",
-      "vreme": null,
-      "naziv": "Fizika 1"
-    },
-    {
-      "sifra": "19E061F1",
-      "vreme": null,
-      "naziv": "Fizika 1"
-    },
-    {
-      "sifra": "19E072GEM",
-      "vreme": null,
-      "naziv": "Elektromagnetika"
-    },
-    {
-      "sifra": "19E112OOP",
-      "vreme": null,
-      "naziv": "Objektno orijentisano programiranje"
-    },
-    {
-      "sifra": "19M044EI",
-      "vreme": null,
-      "naziv": "Odabrana poglavlja iz elektronske instrumentacije"
+      "naziv": "Osnovi telekomunikacija"
     }
   ],
-  "25.01.2023.": [
+  "07.05.2023.": [
     {
-      "sifra": "13E033UTM",
+      "sifra": "13E033AI",
       "vreme": null,
-      "naziv": "Uvod u telekomunikacione mreže"
+      "naziv": "Arhitektura interneta"
     },
     {
-      "sifra": "13E042OEL",
+      "sifra": "13E043EE",
       "vreme": null,
-      "naziv": "Osnovi elektronike"
+      "naziv": "Energetska elektronika"
     },
     {
-      "sifra": "13E042OEF",
+      "sifra": "13E112OS1",
       "vreme": null,
-      "naziv": "Osnovi elektronike"
+      "naziv": "Operativni sistemi 1"
     },
     {
-      "sifra": "13E044UPV",
+      "sifra": "13E114SAB",
       "vreme": null,
-      "naziv": "Uvod u projektovanje VLSI sistema"
+      "naziv": "Softverski alati baza podataka"
     },
     {
-      "sifra": "13E064BMT",
+      "sifra": "13M114SAB",
       "vreme": null,
-      "naziv": "Biomaterijali"
+      "naziv": "Alati za programiranje baza podataka"
     },
     {
-      "sifra": "13E071PE1",
+      "sifra": "19E034AI",
       "vreme": null,
-      "naziv": "Praktikum iz osnova elektrotehnike 1"
+      "naziv": "Arhitektura interneta"
     },
     {
-      "sifra": "13E074MM",
+      "sifra": "19E081MM2",
       "vreme": null,
-      "naziv": "Mikrotalasna merenja"
+      "naziv": "Matematika 2"
     },
     {
-      "sifra": "13E113BP1",
+      "sifra": "19E081MM2",
       "vreme": null,
-      "naziv": "Baze podataka 1"
+      "naziv": "Matematika 2"
     },
     {
-      "sifra": "13S074IOA",
+      "sifra": "19E081MM2",
       "vreme": null,
-      "naziv": null
+      "naziv": "Matematika 2"
     },
     {
-      "sifra": "13S081PM1",
+      "sifra": "19M034AI",
       "vreme": null,
-      "naziv": "Praktikum iz matematike 1"
+      "naziv": "Arhitektura savremenog interneta"
     },
     {
-      "sifra": "13S112BP1",
+      "sifra": "19E081MM2",
       "vreme": null,
-      "naziv": "Baze podataka 1"
+      "naziv": "Matematika 2"
     },
     {
-      "sifra": "19E043VLSI",
+      "sifra": "19E081MM2",
       "vreme": null,
-      "naziv": "Projektovanje VLSI sistema"
+      "naziv": "Matematika 2"
     },
     {
-      "sifra": "19E063BMT",
+      "sifra": "19E081MM2",
       "vreme": null,
-      "naziv": "Biomaterijali"
+      "naziv": "Matematika 2"
     },
     {
-      "sifra": "19M043VLSI",
+      "sifra": "19M034AI",
       "vreme": null,
-      "naziv": "Projektovanje VLSI sistema 2"
+      "naziv": "Arhitektura savremenog interneta"
     },
     {
-      "sifra": "19M074OOA",
+      "sifra": "19E081MM2",
       "vreme": null,
-      "naziv": "Optimizacioni algoritmi u inženjerstvu"
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19E081MM2",
+      "vreme": null,
+      "naziv": "Matematika 2"
+    },
+    {
+      "sifra": "19M034AI",
+      "vreme": null,
+      "naziv": "Arhitektura savremenog interneta"
+    }
+  ],
+  "28.04.2023.": [
+    {
+      "sifra": "13E034TIK",
+      "vreme": null,
+      "naziv": "Teorija informacija i kodovi u telekomunikacijama"
+    },
+    {
+      "sifra": "13E043LE",
+      "vreme": null,
+      "naziv": "Linearna elektronika"
+    },
+    {
+      "sifra": "13E052PSA",
+      "vreme": null,
+      "naziv": "Praktikum iz softverskih alata"
+    },
+    {
+      "sifra": "13E054KLIN",
+      "vreme": null,
+      "naziv": "Kliničko inženjerstvo"
+    },
+    {
+      "sifra": "13E062KM",
+      "vreme": null,
+      "naziv": "Kvantna mehanika"
+    },
+    {
+      "sifra": "13E113PIA",
+      "vreme": null,
+      "naziv": "Programiranje internet aplikacija"
+    },
+    {
+      "sifra": "13M054KLIN",
+      "vreme": null,
+      "naziv": "Klinička instrumentacija"
+    },
+    {
+      "sifra": "13M113PIA",
+      "vreme": null,
+      "naziv": "Programiranje veb aplikacija"
+    },
+    {
+      "sifra": "19E032AIKS",
+      "vreme": null,
+      "naziv": "Arhitektura informaciono-komunikacionih sistema"
+    }
+  ],
+  "23.04.2023.": [
+    {
+      "sifra": "13E042OAE",
+      "vreme": null,
+      "naziv": "Osnovi analogne elektronike"
+    },
+    {
+      "sifra": "13E042OAEF",
+      "vreme": null,
+      "naziv": "Osnovi analogne elektronike"
+    },
+    {
+      "sifra": "13E052SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "13E052SISG",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E042AE1",
+      "vreme": null,
+      "naziv": "Analogna elektronika 1"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    },
+    {
+      "sifra": "19E071OE2",
+      "vreme": null,
+      "naziv": "Osnovi elektrotehnike 2"
+    }
+  ],
+  "06.05.2023.": [
+    {
+      "sifra": "13E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "13E063OPT",
+      "vreme": null,
+      "naziv": "Optičke telekomunikacije"
+    },
+    {
+      "sifra": "13E063OTK",
+      "vreme": null,
+      "naziv": "Optoelektronske telekomunikacione komponente"
+    },
+    {
+      "sifra": "13E112AR",
+      "vreme": null,
+      "naziv": "Arhitektura računara"
+    },
+    {
+      "sifra": "13E114IEP",
+      "vreme": null,
+      "naziv": "Infrastruktura za elektronsko poslovanje"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
+    },
+    {
+      "sifra": "19E042SIS",
+      "vreme": null,
+      "naziv": "Signali i sistemi"
+    },
+    {
+      "sifra": "19E061F2",
+      "vreme": null,
+      "naziv": "Fizika 2"
+    },
+    {
+      "sifra": "19E111ORT",
+      "vreme": null,
+      "naziv": "Osnovi računarske tehnike"
     }
   ]
 }
