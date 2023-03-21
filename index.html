@@ -176,14 +176,19 @@ console.log(ispitiObj);
     tableRef.innerHTML="";
     let datum = document.getElementById("datum").selectedOptions[0].value;
     datum = datum+".";
+    var lookup = {};
     prikaz.innerHTML = "Raspored zbirno za datum "+datum;
     for(let i=0; i<ispitiPoDatumu[datum].length; i++){
       ispit = ispitiPoDatumu[datum][i];
+      if(!(ispit['sifra'] in lookup)){
+        lookup[ispit['sifra']] = 1;
+      
       var newRow = tableRef.insertRow(tableRef.rows.length);
               newRow.innerHTML = `<td>`+ispit['sifra']+`</td>
               <td>`+ispit['naziv']+`</td>
               <td>`+datum+`</td>
               <td>`+ispit['vreme']+`</td>`;
+      }
     }
   }
   function odsek(){
